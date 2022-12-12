@@ -7,7 +7,7 @@ Blockchian Forensics tools can be used to investigate cryptocurrency-related cri
 
 This repository contains a list of the most popular and widely used tools in web3 security.
 
-**If you find any tools missing, you call create a pull request and be a contribute the project.**
+**If you find any tools missing, you can create a pull request and be a contribute the project.**
 
 ![](data/Web3_Security%20Tools.png)
 
