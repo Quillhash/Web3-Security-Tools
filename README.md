@@ -165,6 +165,7 @@ Xmind Link: https://xmind.works/share/zfdeD07U
 - [Wallet Guard](https://walletguard.app/)
 - [Interlock](https://www.interlock.network/)
 - [Revoke.cash](https://revoke.cash/)
+- [Novus](https://www.usenovus.io)
 
 
 ### Further References:
