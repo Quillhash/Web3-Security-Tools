@@ -82,7 +82,7 @@ Xmind Link: https://xmind.works/share/zfdeD07U
 
 ### Miscellaneous tools
 
-- [https://eth-toolbox.com/](https://eth-toolbox.com/)
+- [ETH Toolbox](https://eth-toolbox.com/)
 - [DethCode](https://github.com/dethcrypto/dethcode)
 - [Cryptocurrencies OSINT](https://start.me/p/ek4rxK/cryptocurrency-osint)
 - [DeBank](https://debank.com/)
