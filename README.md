@@ -176,5 +176,5 @@ Xmind Link: https://xmind.works/share/zfdeD07U
 
 [https://github.com/OffcierCia/On-Chain-Investigations-Tools-List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)   
 [https://github.com/shantanhunt/Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/shantanhunt/Smart-Contract-Auditor-Tools-and-Techniques)   
-[https://github.com/Anugrahsr/Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security) 
+[https://github.com/Anugrahsr/Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security) </br>
 [https://github.com/RektifyAI/auditing-demystified](https://github.com/RektifyAI/auditing-demystified)
