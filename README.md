@@ -48,6 +48,7 @@ Xmind Link: https://xmind.works/share/zfdeD07U
 
 ### Rug Checker Tools
 
+- [Rug Pull Finder](https://www.rugpullfinder.io/confirmedrugpulls)
 - [bscheck](http://bscheck.eu/)
 - [rugscreen](http://rugscreen.com/)
 - [QuillCheck](https://quillaudits.com/tools/quillcheck/)
@@ -81,7 +82,7 @@ Xmind Link: https://xmind.works/share/zfdeD07U
 
 ### Miscellaneous tools
 
-- [https://eth-toolbox.com/](https://eth-toolbox.com/)
+- [ETH Toolbox](https://eth-toolbox.com/)
 - [DethCode](https://github.com/dethcrypto/dethcode)
 - [Cryptocurrencies OSINT](https://start.me/p/ek4rxK/cryptocurrency-osint)
 - [DeBank](https://debank.com/)
@@ -155,6 +156,7 @@ Xmind Link: https://xmind.works/share/zfdeD07U
 - [Awesome solidity Gas Optimizations](https://github.com/iskdrews/awesome-solidity-gas-optimization)
 - [Secureum Blogs](https://consensys.github.io/smart-contract-best-practices/attacks/)
 - [Smart contract best practices](https://consensys.github.io/smart-contract-best-practices/attacks/)
+- [Blockchain Hacking QuickStart Guide](https://start.blockchainhax.com)
 
 ---
 
@@ -166,10 +168,13 @@ Xmind Link: https://xmind.works/share/zfdeD07U
 - [Interlock](https://www.interlock.network/)
 - [Revoke.cash](https://revoke.cash/)
 - [Novus](https://www.usenovus.io)
+- [Web3 Antivirus](https://web3antivirus.io/)
+- [PeckShield Alert](https://chrome.google.com/webstore/detail/peckshieldalert/dakkielolpafjbgnjnakddabmbbkcioe)
 
 
 ### Further References:
 
 [https://github.com/OffcierCia/On-Chain-Investigations-Tools-List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)   
 [https://github.com/shantanhunt/Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/shantanhunt/Smart-Contract-Auditor-Tools-and-Techniques)   
-[https://github.com/Anugrahsr/Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security)
+[https://github.com/Anugrahsr/Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security) 
+[https://github.com/RektifyAI/auditing-demystified](https://github.com/RektifyAI/auditing-demystified)
