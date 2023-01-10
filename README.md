@@ -153,9 +153,9 @@ Xmind Link: https://xmind.works/share/zfdeD07U
 - [Audit Hero](https://audit-hero.com/search-findings)
 - [Solidity Attack Vectors](https://github.com/Quillhash/Solidity-Attack-Vectors)
 - [Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist)
-- [Awesome solidity Gas Optimizations](https://github.com/iskdrews/awesome-solidity-gas-optimization)
-- [Secureum Blogs](https://consensys.github.io/smart-contract-best-practices/attacks/)
-- [Smart contract best practices](https://consensys.github.io/smart-contract-best-practices/attacks/)
+- [Awesome Solidity Gas Optimizations](https://github.com/iskdrews/awesome-solidity-gas-optimization)
+- [Secureum Blogs](https://substack.com/profile/23643769-rajeev-secureum)
+- [Diligence - Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/attacks/)
 - [Blockchain Hacking QuickStart Guide](https://start.blockchainhax.com)
 
 ---
