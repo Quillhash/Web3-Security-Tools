@@ -157,6 +157,7 @@ Xmind Link: https://xmind.works/share/zfdeD07U
 - [Secureum Blogs](https://substack.com/profile/23643769-rajeev-secureum)
 - [Diligence - Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/attacks/)
 - [Blockchain Hacking QuickStart Guide](https://start.blockchainhax.com)
+- [How to Become a Smart Contract Auditor by Cmichel](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
 
 ---
 
