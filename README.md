@@ -150,6 +150,7 @@ Xmind Link: https://xmind.works/share/zfdeD07U
 ### Auditing Books and Guides:
 
 - [The Auditors Book](https://theauditorbook.com/)
+- [Solodit.xyz](https://solodit.xyz/dashboard)
 - [Audit Hero](https://audit-hero.com/search-findings)
 - [Solidity Attack Vectors](https://github.com/Quillhash/Solidity-Attack-Vectors)
 - [Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist)
