@@ -146,6 +146,8 @@ Xmind Link: https://xmind.works/share/zfdeD07U
 - [smartcheck](https://github.com/smartdec/smartcheck)
 - [solidityscan.com](https://solidityscan.com/)
 - [Fuzzinglab’s Octopus](https://github.com/FuzzingLabs/octopus)
+- [Caracal](https://github.com/crytic/caracal)
+- [Amarna](https://github.com/crytic/amarna)
 
 ### Auditing Books and Guides:
 
