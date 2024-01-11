@@ -43,6 +43,7 @@ Xmind Link: https://xmind.works/share/zfdeD07U
 
 - [Tenderly](https://chrome.google.com/webstore/detail/tenderly-debugger/miiolgcpknpjjfagkaddfgakbdenenfn)
 - [MetaDock](https://chrome.google.com/webstore/detail/metadock/fkhgpeojcbhimodmppkbbliepkpcgcoo)
+- [Sentio](https://chromewebstore.google.com/detail/sentio/kkdofmcnddcnldoingfpiojnnkdcbhnf)
 - [Blockchair](https://chrome.google.com/webstore/detail/blockchair/fhhkkooikehnkaodebbfnkinedlllcfk)
 - [Impersonator](https://chrome.google.com/webstore/detail/impersonator/hgihfkmoibhccfdohjdbklmmcknjjmgl)
 
@@ -66,6 +67,7 @@ Xmind Link: https://xmind.works/share/zfdeD07U
 - [Bitquery Explorer](https://explorer.bitquery.io/)
 - [Tx eth samczsun](https://tx.eth.samczsun.com/)
 - [Tenderly](https://tenderly.co/)
+- [Sentio](https://app.sentio.xyz/explorer)
 - [Socketscan](https://socketscan.io/)
 - [3D VR blockchain visualization](https://ethresear.ch/t/open-source-3d-and-vr-blockchain-visualizations/3297/2)
 - [eigenphi.io](https://eigenphi.io/)
