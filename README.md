@@ -72,6 +72,7 @@ Xmind Link: https://xmind.works/share/zfdeD07U
 - [3D VR blockchain visualization](https://ethresear.ch/t/open-source-3d-and-vr-blockchain-visualizations/3297/2)
 - [eigenphi.io](https://eigenphi.io/)
 - [nansen.ai](https://nansen.ai)
+- [covalenthq.com](https://covalenthq.com/)
 - [**Officer CIA’s Investigation tools list**](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
 
 
@@ -178,7 +179,7 @@ Xmind Link: https://xmind.works/share/zfdeD07U
 
 ### Further References:
 
-[https://github.com/OffcierCia/On-Chain-Investigations-Tools-List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)   
-[https://github.com/shantanhunt/Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/shantanhunt/Smart-Contract-Auditor-Tools-and-Techniques)   
+[https://github.com/OffcierCia/On-Chain-Investigations-Tools-List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
+[https://github.com/shantanhunt/Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/shantanhunt/Smart-Contract-Auditor-Tools-and-Techniques)
 [https://github.com/Anugrahsr/Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security) </br>
 [https://github.com/RektifyAI/auditing-demystified](https://github.com/RektifyAI/auditing-demystified)
