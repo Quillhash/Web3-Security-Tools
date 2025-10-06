@@ -128,6 +128,7 @@ Xmind Link: https://xmind.works/share/zfdeD07U
 - [Doc-Gen](https://mtmacdonald.github.io/docgen/docs/index.html)
 - [Solhint](https://github.com/protofire/solhint)
 - [sol function profiler](https://github.com/EricR/sol-function-profiler)
+- [Agent Treasury Policy Linter](https://github.com/Amara-ops/agent-guardrails-policy-linter)
 
 ### Visualization Tools:
 
