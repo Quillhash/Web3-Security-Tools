@@ -57,6 +57,7 @@ Xmind Link: https://xmind.works/share/zfdeD07U
 - [tokensniffer](https://tokensniffer.com/)
 - [rugpulldetector](http://rugpulldetector.com/)
 - [rugdoc honeypot checker](https://rugdoc.io/honeypot/)
+- [RektRadar](https://rektradar.io/) - real-time Ethereum scam detector with mempool monitoring, deployer-graph clustering, factory-pattern detection; 80+ on-chain flags per contract; free unlimited web checks, no signup
 
 ### Txn Visualization Tools
 
