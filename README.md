@@ -169,6 +169,7 @@ Xmind Link: https://xmind.works/share/zfdeD07U
 - [BlowFish](https://blowfish.xyz/)
 - [Pocket Universe](https://www.pocketuniverse.app/)
 - [Wallet Guard](https://walletguard.app/)
+- [EVM Transaction Risk Decoder](https://gpt55.558686.xyz/x402/evm-transaction-risk-decoder) - x402 paid pre-signing calldata decoder for risky approvals, permits, operator approvals, transfers, and multicall hints without private keys or transaction broadcast.
 - [Interlock](https://www.interlock.network/)
 - [Revoke.cash](https://revoke.cash/)
 - [Novus](https://www.usenovus.io)
