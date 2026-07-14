@@ -55,6 +55,7 @@ Xmind Link: https://xmind.works/share/zfdeD07U
 - [QuillCheck](https://quillaudits.com/tools/quillcheck/)
 - [poocoin’s rugcheck](https://poocoin.app/rugcheck)
 - [tokensniffer](https://tokensniffer.com/)
+- [RugBuster](https://rugbuster.io/)
 - [rugpulldetector](http://rugpulldetector.com/)
 - [rugdoc honeypot checker](https://rugdoc.io/honeypot/)
 
