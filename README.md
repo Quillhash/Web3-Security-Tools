@@ -89,6 +89,7 @@ Xmind Link: https://xmind.works/share/zfdeD07U
 - [Cryptocurrencies OSINT](https://start.me/p/ek4rxK/cryptocurrency-osint)
 - [DeBank](https://debank.com/)
 - [Tutela](https://tutela.xyz/)
+- [FreezeRadar](https://freezeradar.com/) - Free wallet risk check for issuer blacklists / freezeable assets (USDT, USDC, PAXG) and sanctions-related exposure
 
 ---
 
