@@ -57,6 +57,7 @@ Xmind Link: https://xmind.works/share/zfdeD07U
 - [tokensniffer](https://tokensniffer.com/)
 - [rugpulldetector](http://rugpulldetector.com/)
 - [rugdoc honeypot checker](https://rugdoc.io/honeypot/)
+- [Launch Watch](https://invisiblemonsters.github.io/launch-watch/)
 
 ### Txn Visualization Tools
 
