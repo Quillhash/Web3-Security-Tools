@@ -89,6 +89,7 @@ Xmind Link: https://xmind.works/share/zfdeD07U
 - [Cryptocurrencies OSINT](https://start.me/p/ek4rxK/cryptocurrency-osint)
 - [DeBank](https://debank.com/)
 - [Tutela](https://tutela.xyz/)
+- [SmartAlert](https://smart-alert.io/)
 
 ---
 
