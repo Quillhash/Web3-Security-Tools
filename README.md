@@ -57,6 +57,7 @@ Xmind Link: https://xmind.works/share/zfdeD07U
 - [tokensniffer](https://tokensniffer.com/)
 - [rugpulldetector](http://rugpulldetector.com/)
 - [rugdoc honeypot checker](https://rugdoc.io/honeypot/)
+- [MemesOnCronos token scanner](https://www.memesoncronos.com/security/) - Free rug and honeypot check for Cronos tokens: buy and sell simulation, taxes, owner rights (mint, blacklist, pause, upgradable proxy) and liquidity, read on chain.
 
 ### Txn Visualization Tools
 
