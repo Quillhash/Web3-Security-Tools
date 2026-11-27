@@ -148,6 +148,7 @@ Xmind Link: https://xmind.works/share/zfdeD07U
 - [smartcheck](https://github.com/smartdec/smartcheck)
 - [solidityscan.com](https://solidityscan.com/)
 - [Fuzzinglab’s Octopus](https://github.com/FuzzingLabs/octopus)
+- [realism-gate](https://github.com/KhomDev/realism-gate)
 
 ### Auditing Books and Guides:
 
